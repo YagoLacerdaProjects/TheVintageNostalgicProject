@@ -34,9 +34,8 @@ The "Groove Meter" value is randomly set on each interaction and detarmines the 
 | CordSoundTrigger.cs | Self written |
 | GlowSpritesManager.cs | Self written |
 | MainMenuManager.cs | Self written |
-
-| MCBlob.cs | Modified from [Metaball implementation by Brian R. Cowan http://www.briancowan.net/]() |
-| Heat.cs | Extensively Modified From [briancowan.net]() |
+| MCBlob.cs | Modified from [Metaball implementation by Brian R. Cowan http://www.briancowan.net/] |
+| Heat.cs | Extensively Modified From [briancowan.net] |
 
 # References
 * (https://www.youtube.com/watch?v=DEWQH1ajnbk)
