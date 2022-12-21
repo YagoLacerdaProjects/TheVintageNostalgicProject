@@ -17,91 +17,52 @@ This project takes inspiration from the 1984 movie "Voyage of the Rock Aliens". 
 
 # Instructions for use
 
+Open the project build and interact with the spaceship guitar's strings buy hovering the mouse over the strings while pressing left mouse button or by tapping for touch screens.
+The "Groove Meter" value is randomly set on each interaction and detarmines the position of the lavalamp blob.
 
 # How it works
+
+The project uses a script of "Unity Metaballs" and then makes it interact with the strings of the Guitar Spaceship. Interact with the spaceship guitar's strings buy hovering the mouse over the strings while pressing left mouse button or by tapping for touch screens.
+The "Groove Meter" value is randomly set on each interaction and detarmines the position of the lavalamp blob.
+
 
 # List of classes/assets in the project
 
 | Class/asset | Source |
 |-----------|-----------|
-| MyClass.cs | Self written |
-| MyClass1.cs | Modified from [reference]() |
-| MyClass2.cs | From [reference]() |
+| GuitarManager.cs | Self written |
+| CordSoundTrigger.cs | Self written |
+| GlowSpritesManager.cs | Self written |
+| MainMenuManager.cs | Self written |
+
+| MCBlob.cs | Modified from [Metaball implementation by Brian R. Cowan http://www.briancowan.net/]() |
+| Heat.cs | Extensively Modified From [briancowan.net]() |
 
 # References
-* Item 1
-* Item 2
+* (https://www.youtube.com/watch?v=DEWQH1ajnbk)
+* https://forum.unity.com/threads/free-open-source-simple-liquid-simulation-with-metaballs.556858/
+* http://www.briancowan.net/
 
 # What I am most proud of in the assignment
+The project itself was such a greate visit to the groovy and retro movies of the 80s. Implementing something inspired from that era was really a nice experience.
+
+This project allowed me to make better the 3D modeling skills I had. I understood the "Metaballs" concept and how we can create cool looking liquid simulations using it. Moreover, implementation of the fully working interactive "Space Guitar" allowed me to enhance my grasp on programming inside Unity engine. I have more confidence built up for even more cool projects! 
 
 # What I learned
 
+3D modeling and UV Mapping
+Programming inside Unity Engine
+Concept of Metaballs
+
 # Proposal submitted earlier can go here:
 
-## This is how to markdown text:
 
-This is *emphasis*
 
-This is a bulleted list
 
-- Item
-- Item
 
-This is a numbered list
 
-1. Item
-1. Item
 
-This is a [hyperlink](http://bryanduggan.org)
+![Movie Cover Art](https://drive.google.com/file/d/1K5M3u1ULPGp2NELO1hzypRxGMGIm8kUT/view?usp=share_link)
 
-# Headings
-## Headings
-#### Headings
-##### Headings
+[![Movie Link](https://www.youtube.com/watch?v=DEWQH1ajnbk)
 
-This is code:
-
-```Java
-public void render()
-{
-	ui.noFill();
-	ui.stroke(255);
-	ui.rect(x, y, width, height);
-	ui.textAlign(PApplet.CENTER, PApplet.CENTER);
-	ui.text(text, x + width * 0.5f, y + height * 0.5f);
-}
-```
-
-So is this without specifying the language:
-
-```
-public void render()
-{
-	ui.noFill();
-	ui.stroke(255);
-	ui.rect(x, y, width, height);
-	ui.textAlign(PApplet.CENTER, PApplet.CENTER);
-	ui.text(text, x + width * 0.5f, y + height * 0.5f);
-}
-```
-
-This is an image using a relative URL:
-
-![An image](images/p8.png)
-
-This is an image using an absolute URL:
-
-![A different image](https://bryanduggandotorg.files.wordpress.com/2019/02/infinite-forms-00045.png?w=595&h=&zoom=2)
-
-This is a youtube video:
-
-[![YouTube](http://img.youtube.com/vi/J2kHSSFA4NU/0.jpg)](https://www.youtube.com/watch?v=J2kHSSFA4NU)
-
-This is a table:
-
-| Heading 1 | Heading 2 |
-|-----------|-----------|
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
