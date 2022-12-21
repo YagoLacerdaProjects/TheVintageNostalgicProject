@@ -6,7 +6,8 @@ Student Number: C19481114
 
 Class Group: TU856
 
-Video: [![YouTube](http://img.youtube.com/vi/IpTh5TVOK84/0.jpg)](https://youtu.be/IpTh5TVOK84)
+Video: 
+[![YouTube](http://img.youtube.com/vi/IpTh5TVOK84/0.jpg)](https://youtu.be/IpTh5TVOK84)
 
 # Description of the project
 This project is for "Games Engines 1 Assignment 2022-2023".
