@@ -1,4 +1,4 @@
-# Project Title
+# Voyage Rock Aliens Guitar Spaceship
 
 Name:
 
@@ -8,7 +8,7 @@ Class Group:
 
 Video:
 
-[![YouTube](http://img.youtube.com/vi/J2kHSSFA4NU/0.jpg)](https://www.youtube.com/watch?v=J2kHSSFA4NU)
+[![YouTube](http://img.youtube.com/vi/IpTh5TVOK84/0.jpg)](https://youtu.be/IpTh5TVOK84)
 
 # Description of the project
 
