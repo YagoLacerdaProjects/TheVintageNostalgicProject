@@ -62,5 +62,5 @@ Concept of Metaballs
 
 ![Movie Cover Art](https://drive.google.com/file/d/1K5M3u1ULPGp2NELO1hzypRxGMGIm8kUT/view?usp=share_link)
 
-[![Movie Link](https://www.youtube.com/watch?v=DEWQH1ajnbk)
+(https://www.youtube.com/watch?v=DEWQH1ajnbk)
 
