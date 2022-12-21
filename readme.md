@@ -53,13 +53,12 @@ This project allowed me to make better the 3D modeling skills I had. I understoo
 Programming inside Unity Engine
 Concept of Metaballs
 
-# Proposal submitted earlier can go here:
+# Proposal submitted earlier:
+
+-PROPOSAL LINK-
 
 
-
-
-
-
+# Movie Link and Cover Art:
 
 ![Movie Cover Art](https://drive.google.com/file/d/1K5M3u1ULPGp2NELO1hzypRxGMGIm8kUT/view?usp=share_link)
 
