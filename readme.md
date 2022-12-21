@@ -1,4 +1,4 @@
-# Voyage Rock Aliens Guitar Spaceship
+# Voyage Of the Rock Aliens Guitar Spaceship
 
 Name:
 
@@ -11,6 +11,9 @@ Video:
 [![YouTube](http://img.youtube.com/vi/IpTh5TVOK84/0.jpg)](https://youtu.be/IpTh5TVOK84)
 
 # Description of the project
+This project is for "Games Engines 1 Assignment 2022-2023".
+
+This project takes inspiration from the 1984 movie "Voyage of the Rock Aliens". The guitar shaped spaceship is what is the main inspiration and is 3D modeled and implemented in this assignment as a fully workin playable guitar zooming through the space! There's lavalamp integrated inside the guitar spaceship itself which is interactable through interacting with guitar strings!
 
 # Instructions for use
 
