@@ -60,7 +60,7 @@ Concept of Metaballs
 
 # Movie Link and Cover Art:
 
-![Movie Cover Art](https://drive.google.com/file/d/1K5M3u1ULPGp2NELO1hzypRxGMGIm8kUT/view?usp=share_link)
+![Movie Cover Art](https://mykittykatpathani.000webhostapp.com/Screenshot%202022-12-21%20084846.png)
 
 (https://www.youtube.com/watch?v=DEWQH1ajnbk)
 
