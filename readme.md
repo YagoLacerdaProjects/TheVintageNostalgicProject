@@ -13,17 +13,17 @@ Video:
 # Description of the project
 This project is for "Games Engines 1 Assignment 2022-2023".
 
-This project takes inspiration from the 1984 movie "Voyage of the Rock Aliens". The guitar shaped spaceship is what is the main inspiration and is 3D modeled and implemented in this assignment as a fully workin playable guitar zooming through the space! There's lavalamp integrated inside the guitar spaceship itself which is interactable through interacting with guitar strings!
+This project takes inspiration from the 1984 movie "Voyage of the Rock Aliens". The guitar shaped spaceship is the main aspcet and is 3D modeled and implemented in this assignment as a fully working playable guitar zooming through space! There's lavalamp integrated inside the guitar spaceship itself which moves through interacting with the guitar strings!
 
 # Instructions for use
 
-Open the project build and interact with the spaceship guitar's strings buy hovering the mouse over the strings while pressing left mouse button or by tapping for touch screens.
-The "Groove Meter" value is randomly set on each interaction and detarmines the position of the lavalamp blob.
+Open the project build and interact with the spaceship guitar strings by hovering the mouse over the strings while pressing left mouse button or by tapping for touch screens.
+The "Groove Meter" value is randomly set on each interaction and determines the position of the lavalamp blob.
 
 # How it works
 
-The project uses a script of "Unity Metaballs" and then makes it interact with the strings of the Guitar Spaceship. Interact with the spaceship guitar's strings buy hovering the mouse over the strings while pressing left mouse button or by tapping for touch screens.
-The "Groove Meter" value is randomly set on each interaction and detarmines the position of the lavalamp blob.
+The project uses a script from "Unity Metaballs" and interacts with the strings of the Guitar Spaceship. Interact with the spaceship guitar's strings by hovering the mouse over the strings while pressing left mouse button or by tapping for touch screens.
+The "Groove Meter" value is randomly set on each interaction and determines the position of the lavalamp blob.
 
 
 # List of classes/assets in the project
@@ -43,9 +43,9 @@ The "Groove Meter" value is randomly set on each interaction and detarmines the 
 * http://www.briancowan.net/
 
 # What I am most proud of in the assignment
-The project itself was such a greate visit to the groovy and retro movies of the 80s. Implementing something inspired from that era was really a nice experience.
+The project itself was such a great visit to the groovy and retro movies of the 80s. Implementing something inspired from that era was really a nice experience.
 
-This project allowed me to make better the 3D modeling skills I had. I understood the "Metaballs" concept and how we can create cool looking liquid simulations using it. Moreover, implementation of the fully working interactive "Space Guitar" allowed me to enhance my grasp on programming inside Unity engine. I have more confidence built up for even more cool projects! 
+This project allowed me to make my 3D modeling skills better. I understood the "Metaballs" concept and how I can create cool looking liquid simulations using it. Moreover, implementation of the fully working interactive "Space Guitar" allowed me to enhance my grasp on programming inside Unity engine. I have more confidence built up for even more cool projects! 
 
 # What I learned
 
